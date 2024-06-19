@@ -4,7 +4,7 @@ title: Optiline
 description: An AI-Powered code optimizer
 img: assets/img/optiline.jpg
 importance: 1
-category: work
+category: 
 related_publications: true
 ---
 
