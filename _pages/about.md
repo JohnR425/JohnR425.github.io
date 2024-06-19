@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -16,3 +16,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hello, I am a 4th year undergraduate computer science student at the [University of Massachusetts Amherst](https://www.cics.umass.edu/) with a passion for applying machine learning principles in the field of computer vision. 
+
+Please refer to my [CV] (https://johnr425.github.io/assets/pdf/John Ryu Resume.pdf) for more details
