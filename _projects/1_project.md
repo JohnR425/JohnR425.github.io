@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Optiline
+description: An AI-Powered code optimizer
+img: assets/img/optiline.jpg
 importance: 1
 category: work
 related_publications: true
